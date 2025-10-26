@@ -55,8 +55,11 @@ This project thrives on community effort! If you'd like to contribute, please fo
 
 Join our community to discuss problems, share insights, and get updates on new additions
 
-| Channel | Link |
+| Via | Link |
 | :--- | :--- |
 | **Mail** | [dewanrocky250@gmail.com] |
+| **Linkedin** | [http://linkedin.com/in/rockydewan250] |
+| **Portfolio** | [https://rocky-dewan.github.io/-Rockyfolio/] |
+| **Github** | [http://github.com/Rocky-Dewan] |
 
 Happy coding!
