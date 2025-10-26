@@ -4,7 +4,7 @@
 
 ##  About This Organization
 
-Welcome to **The Coder Wings**—a free, open-source repository dedicated to collecting, organizing, and sharing solutions for all major competitive programming (CP) platforms and coding interviews.
+Welcome to **The Winged Coders**—a free, open-source repository dedicated to collecting, organizing, and sharing solutions for all major competitive programming (CP) platforms and coding interviews.
 
 Whether you're a beginner learning your first algorithm or an experienced coder looking for diverse problem sets, this is your go-to resource!
 
