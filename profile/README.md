@@ -28,9 +28,9 @@ Our goal is to provide clear, well-commented solutions across various programmin
 
 ##  How to Use This Resource
 
-1.  **Find the Platform:** Navigate to the specific repository for the platform you are interested in (e.g., `leetcode-solutions` or `codeforces-contests`).
-2.  **Browse by Category/Contest:** Look for folders organized by problem category, contest number, or difficulty rating.
-3.  **Review the Code:** Solutions are generally named based on the problem title. Inside, you'll find the code and often a brief explanation or link to the problem statement.
+1.  **Find the Platform:** Navigate to the specific repository for the platform you are interested in (e.g., `leet_code` or `code_forces`).
+2.  **Browse by Category/Contest:** Look for folders organized by problem number.
+3.  **Review the Code:** Solutions are generally named based on the problem number. Inside, you'll find the code.
 4.  **Learn:** Don't just copy! Review the logic, understand the chosen **Data Structure** or **Algorithm**, and try to implement it yourself.
 
 ---
